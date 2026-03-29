@@ -1,6 +1,8 @@
 # 🗡️ Kill Bill Theme CV Template
 
-A stunning, interactive CV/Portfolio website inspired by the Kill Bill film aesthetic. This template combines cinematic design elements with modern web technologies to create an unforgettable portfolio experience.
+An interactive Portfolio website inspired by the Kill Bill film aesthetic.It combines cinematic design elements with modern web technologies to create an unforgettable portfolio experience.
+
+<img width="1879" height="781" alt="image" src="https://github.com/user-attachments/assets/d0177ea0-af4d-4d0a-bf81-5e514a49511c" />
 
 ## ✨ Features
 
