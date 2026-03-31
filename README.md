@@ -84,9 +84,8 @@ Open source - feel free to use and modify
 ## 👤 Original Concept & Designer
 
 **Dr. Bharat Singh Rawat**  
-University of Liverpool
 
-Original concept and designed by **Dr. Bharat Singh Rawat**, Ph.D./ University of Liverpool"
+Original concept and design by **Dr. Bharat Singh Rawat**, Ph.D."
 
 ---
 
